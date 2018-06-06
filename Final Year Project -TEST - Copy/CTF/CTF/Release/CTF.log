@@ -1,0 +1,152 @@
+﻿  GameOverState.cpp
+c:\users\tobz\desktop\final year project -test\ctf\ctf\headers\aStarSearch.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+headers\GameOverState.cpp(25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+headers\GameOverState.cpp(26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  AssetManager.cpp
+  b2GLDraw.cpp
+Source\b2GLDraw.cpp(36): warning C4101: 'glVertices': unreferenced local variable
+Source\b2GLDraw.cpp(53): warning C4101: 'glVertices': unreferenced local variable
+  Borders.cpp
+source\Borders.cpp(21): warning C4018: '<': signed/unsigned mismatch
+source\Borders.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  Bullet.cpp
+  Enemy.cpp
+c:\users\tobz\desktop\final year project -test\ctf\ctf\headers\aStarSearch.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Source\Enemy.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source\Enemy.cpp(107): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PathFinder.cpp
+c:\users\tobz\desktop\final year project -test\ctf\ctf\headers\aStarSearch.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+source\PathFinder.cpp(18): warning C4018: '<': signed/unsigned mismatch
+source\PathFinder.cpp(24): warning C4018: '<': signed/unsigned mismatch
+source\PathFinder.cpp(29): warning C4018: '<': signed/unsigned mismatch
+source\PathFinder.cpp(58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+source\PathFinder.cpp(59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+source\PathFinder.cpp(75): warning C4018: '<': signed/unsigned mismatch
+source\PathFinder.cpp(106): warning C4018: '<': signed/unsigned mismatch
+source\PathFinder.cpp(118): warning C4018: '<': signed/unsigned mismatch
+source\PathFinder.cpp(171): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+source\PathFinder.cpp(174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+source\PathFinder.cpp(177): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+source\PathFinder.cpp(180): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+source\PathFinder.cpp(182): warning C4018: '<': signed/unsigned mismatch
+  qlearning.cpp
+  SettingsState.cpp
+c:\users\tobz\desktop\final year project -test\ctf\ctf\headers\aStarSearch.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+source\SettingsState.cpp(43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+source\SettingsState.cpp(45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+source\SettingsState.cpp(46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+source\SettingsState.cpp(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+source\SettingsState.cpp(49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+source\SettingsState.cpp(56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+source\SettingsState.cpp(63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+source\SettingsState.cpp(66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+source\SettingsState.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+source\SettingsState.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+source\SettingsState.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+source\SettingsState.cpp(122): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  StaticObjects.cpp
+source\StaticObjects.cpp(36): warning C4018: '<': signed/unsigned mismatch
+source\StaticObjects.cpp(86): warning C4018: '<': signed/unsigned mismatch
+source\StaticObjects.cpp(131): warning C4018: '<': signed/unsigned mismatch
+source\StaticObjects.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+source\StaticObjects.cpp(183): warning C4018: '<': signed/unsigned mismatch
+source\StaticObjects.cpp(207): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+source\StaticObjects.cpp(235): warning C4018: '<': signed/unsigned mismatch
+source\StaticObjects.cpp(268): warning C4018: '<': signed/unsigned mismatch
+source\StaticObjects.cpp(433): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+  GameState.cpp
+c:\users\tobz\desktop\final year project -test\ctf\ctf\headers\aStarSearch.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Source\GameState.cpp(128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source\GameState.cpp(131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source\GameState.cpp(134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source\GameState.cpp(146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source\GameState.cpp(149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source\GameState.cpp(152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source\GameState.cpp(159): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source\GameState.cpp(166): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source\GameState.cpp(329): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Source\GameState.cpp(676): warning C4018: '<': signed/unsigned mismatch
+Source\GameState.cpp(688): warning C4018: '<': signed/unsigned mismatch
+  InputManager.cpp
+Source\InputManager.cpp(11): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Source\InputManager.cpp(11): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  MainMenuState.cpp
+c:\users\tobz\desktop\final year project -test\ctf\ctf\headers\aStarSearch.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Source\MainMenuState.cpp(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Source\MainMenuState.cpp(40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PauseState.cpp
+c:\users\tobz\desktop\final year project -test\ctf\ctf\headers\aStarSearch.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+source\PauseState.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+source\PauseState.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+c:\users\tobz\desktop\final year project -test\ctf\ctf\headers\aStarSearch.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SplashState.cpp
+  StateMachine.cpp
+Box2D.lib(b2PolygonShape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2PolygonShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2Body.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2Body.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2World.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2World.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2CircleShape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2CircleShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2Fixture.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2Fixture.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2BroadPhase.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2BroadPhase.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2ContactManager.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2ContactManager.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2Island.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2Island.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2Joint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2Joint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2PulleyJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2PulleyJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2Contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2Contact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2WorldCallbacks.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2WorldCallbacks.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2ContactSolver.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2ContactSolver.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2DistanceJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2DistanceJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2WheelJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2WheelJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2MouseJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2MouseJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2RevoluteJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2RevoluteJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2PrismaticJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2PrismaticJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2GearJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2GearJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2WeldJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2WeldJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2FrictionJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2FrictionJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2RopeJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2RopeJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2MotorJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2MotorJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2CircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2CircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2PolygonAndCircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2PolygonAndCircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2PolygonContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2PolygonContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2EdgeAndCircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2EdgeAndCircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2EdgeAndPolygonContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2EdgeAndPolygonContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2ChainAndCircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2ChainAndCircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2ChainAndPolygonContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2ChainAndPolygonContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2ChainShape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2ChainShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+Box2D.lib(b2EdgeShape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in GameOverState.obj
+Box2D.lib(b2EdgeShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in GameOverState.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\Tobz\Desktop\Final Year Project -TEST\CTF\Release\CTF.exe : fatal error LNK1319: 64 mismatches detected

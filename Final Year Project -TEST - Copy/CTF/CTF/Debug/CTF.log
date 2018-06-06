@@ -1,0 +1,6 @@
+﻿  Enemy.cpp
+c:\users\tobz\desktop\final year project -test - copy\ctf\ctf\headers\astarsearch.h(22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tobz\desktop\final year project -test - copy\ctf\ctf\source\enemy.cpp(91): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tobz\desktop\final year project -test - copy\ctf\ctf\source\enemy.cpp(109): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CTF.vcxproj -> C:\Users\Tobz\Desktop\Final Year Project -TEST - Copy\CTF\Debug\CTF.exe
+  CTF.vcxproj -> C:\Users\Tobz\Desktop\Final Year Project -TEST - Copy\CTF\Debug\CTF.pdb (Partial PDB)
